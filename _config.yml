@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Leonid Keselman
+name: Amogh Manoj Joshi
 
 # Short bio or description (displayed in the header)
 # description: the profile of an engineer, researcher and software developer
@@ -18,12 +18,12 @@ avatar: images/circle_bw_crop.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: lkeselman@gmail.com
+  email: ajoshi83@asu.edu
   facebook:
   flickr:
-  github: leonidk
-  instagram: leo_nid_k
-  linkedin:
+  github: https://github.com/AmoghJ001
+  instagram: 
+  linkedin: https://www.linkedin.com/in/amogh-joshi-508453193/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
@@ -42,13 +42,13 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://leonidk.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-#baseurl: ""
+#baseurl: "amoghj001.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
